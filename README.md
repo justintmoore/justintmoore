@@ -8,7 +8,7 @@
 
 # My Interactive GitHub Readme
 
-Welcome to my GitHub profile! This is an example of how you can make your GitHub readme more interactive by incorporating links and external resources.
+Welcome to my GitHub profile! This is an example of how you can make your GitHub readme more interactive and visually appealing with additional CSS styling.
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ You can contact me through the following channels:
 - Email: [youremail@example.com](mailto:youremail@example.com)
 
 <style>
-  /* Add your custom CSS styles here */
+  /* Custom CSS Styles */
   body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -46,6 +46,7 @@ You can contact me through the following channels:
 
   h1 {
     color: #333;
+    text-align: center;
   }
 
   h2 {
@@ -55,6 +56,11 @@ You can contact me through the following channels:
   a {
     text-decoration: none;
     color: #0366d6;
+    transition: color 0.3s;
+  }
+
+  a:hover {
+    color: #0056b3;
   }
 
   .container {
@@ -64,5 +70,12 @@ You can contact me through the following channels:
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .project {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
   }
 </style>
