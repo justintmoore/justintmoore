@@ -1,5 +1,5 @@
 # Hi There, I'm Justin! 
-  I'm in my first year as an Non Traditional Student at Colorado State University.
+  I'm a Junior at Colorado State University. I am majoring in Computer Science, and how a deep passion for Cybersecurity!
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=justintmoore&show_icons=true&theme=radical" />
