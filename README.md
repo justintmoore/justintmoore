@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✋🏽, I'm Justin Moore.</h1>
-<h3 align="center">A Passionate Cybersecurity Student at Colorado State University</h3>
+<h3 align="center">A Passionate Cybersecurity Student at SANS Technology Institute</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=justintmoore&label=Profile%20views&color=0e75b6&style=flat" alt="justintmoore" width="100" height="30" /> </p>
 
