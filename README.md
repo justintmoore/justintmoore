@@ -8,9 +8,7 @@
 ## About Me
 
 🎓 I'm pursuing a Bachelor’s in Cybersecurity through SANS Technology Institute.  
-
 🐏 I currently work as an IT Technician, Cybersecurity Intern, and Teaching Assistant for Python 101.  
-
 😎 I'm a Navy Vet, Non-Traditional Student, and life-long learner with a PASSION for Cybersecurity!  
 
 
@@ -86,7 +84,8 @@ Coming Soon...
 ## Projects
 Coming Soon...
 
-
+## Books
+Coming Soon...
 
 
 
