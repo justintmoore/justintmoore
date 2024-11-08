@@ -1,25 +1,33 @@
-# Hello, I'm Justin (This Github is under contruction)
-
+# Hello, I'm Justin (This Github is under contruction)  
 <a href="https://www.linkedin.com/in/justintimothymoore/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCUYt7w8-Fshuso7JG2ghp3A"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://x.com/AnbuSecOps"><img src="https://img.shields.io/badge/-X (Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/anbu_secops/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-## About Me
-
+## About Me  
 🎓 I'm pursuing a Bachelor’s in Cybersecurity through SANS Technology Institute.  
 🐏 Currently juggling work as an IT Technician, Cybersecurity Intern, and Python TA.  
 😎 I'm a Navy Vet, Non-Traditional Student, and life-long learner with a PASSION for Cybersecurity!  
 
-
-## Objective
-
+## Objective  
 My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
 I’m driven by a relentless curiosity to learn, expand my knowledge, and apply it in the fast-paced world of cybersecurity.
 
-## Skills
-Coming Soon...
+## Certifications
+[![GIAC GFACT Badge](https://img.shields.io/badge/-GIAC%20GFACT-6A0DAD?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/3f382cb7-95f0-47b6-ad18-03dfe5d877eb/public_url) 
+[![GIAC GISF Badge](https://img.shields.io/badge/-GIAC%20GISF-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/814a9b4e-829f-4fc8-96f6-2067c0918a25/public_url) 
+[![GIAC GSEC Badge](https://img.shields.io/badge/-GIAC%20GSEC%20(est.%20Jan%202025)-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)]()   
+[![CompTIA Network+ Badge](https://img.shields.io/badge/-Network%2B%20(est.%20Dec%202024)-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)]()  
+
+## Projects
+Coming Soon...  
+
+## Books
+This is The Way The World Ends By. Nicole Perlroth
+
 <!--
+## Skills
+Coming Soon...  
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         | 
@@ -33,59 +41,35 @@ Coming Soon...
 -->
 
 
-## Tools
-
+<!--TOOLS
+## Tools  
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
+</div>    
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
+</div>  
 ### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Nessus-0033A0?&style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tenable.sc-00A1DE?&style=for-the-badge&logo=Tenable&logoColor=white" />
-</div>
-
+</div>  
 ### Identity and Access Management
 <div>
     <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+-->
 
 
-
-## Certifications
-
-[![GIAC GFACT Badge](https://img.shields.io/badge/-GIAC%20GFACT-6A0DAD?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/3f382cb7-95f0-47b6-ad18-03dfe5d877eb/public_url) 
-[![GIAC GISF Badge](https://img.shields.io/badge/-GIAC%20GISF-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/814a9b4e-829f-4fc8-96f6-2067c0918a25/public_url) 
-[![GIAC GSEC Badge](https://img.shields.io/badge/-GIAC%20GSEC%20(est.%20Jan%202025)-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)]()  
-
-[![CompTIA Network+ Badge](https://img.shields.io/badge/-Network%2B%20(est.%20Dec%202024)-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)]()
-
-
-
-
-
-
-
-<!--
+<!-- CERTIFICATION BADGES
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 -->
 
-</div>
-
-## Projects
-Coming Soon...
-
-## Books
-Coming Soon...
 
 
 
