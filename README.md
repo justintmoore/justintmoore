@@ -20,7 +20,9 @@ I’m driven by a relentless curiosity to learn, expand my knowledge, and apply 
 [![CompTIA Network+ Badge](https://img.shields.io/badge/-Network%2B%20(est.%20Dec%202024)-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)]()  
 
 ## Projects
-Coming Soon...  
+- <b>ELK Stack</b>
+    - <a href="https://github.com/justintmoore/elk-stack-setup/blob/main/README.md">ELK Stack: README</a>
+    - <a href="https://github.com/justintmoore/elk-stack-setup/blob/main/logical-diagram.png">ELK Stack: Logical Diagram</a>
 
 ## Books
 This is The Way The World Ends By. Nicole Perlroth
