@@ -19,12 +19,9 @@ I’m driven by a relentless curiosity to learn, expand my knowledge, and apply 
 [![GIAC GSEC Badge](https://img.shields.io/badge/-GIAC%20GSEC%20(est.%20Jan%202025)-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)]()   
 [![CompTIA Network+ Badge](https://img.shields.io/badge/-Network%2B%20(est.%20Dec%202024)-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)]()  
 
-## Information Technology Projects
-
-
 ## Projects
-- <a href="https://github.com/justintmoore/cybersecurity-projects">Cybersecurity Projects</a>
-- <a href="https://github.com/justintmoore/information-technology-projects">Information Technology Projects</a>
+- <a href="https://github.com/justintmoore/elk-stack-setup/tree/main">ELK Stack</a>
+- <a href="https://github.com/justintmoore/exploring-azure">Exploring Azure</a>  
 
 ## Books
 This is The Way The World Ends By. Nicole Perlroth
