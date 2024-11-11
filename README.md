@@ -22,8 +22,9 @@ I’m driven by a relentless curiosity to learn, expand my knowledge, and apply 
 ## Information Technology Projects
 
 
-## Cybersecurity Projects
-- <a href="https://github.com/justintmoore/elk-stack-setup/tree/main">ELK Stack</a>
+## Projects
+- <a href="https://github.com/justintmoore/cybersecurity-projects">Cybersecurity Projects</a>
+- <a href="https://github.com/justintmoore/information-technology-projects">Information Technology Projects</a>
 
 ## Books
 This is The Way The World Ends By. Nicole Perlroth
