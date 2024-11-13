@@ -20,8 +20,12 @@ I’m driven by a relentless curiosity to learn, expand my knowledge, and apply 
 [![CompTIA Network+ Badge](https://img.shields.io/badge/-Network%2B%20(est.%20Dec%202024)-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)]()  
 
 ## Projects
-- <a href="https://github.com/justintmoore/elk-stack-setup/tree/main">ELK Stack</a>
-- <a href="https://github.com/justintmoore/exploring-azure">Exploring Azure</a>  
+- <a href="https://github.com/justintmoore/elk-stack-setup/tree/main">Elasticsearch Logstash Kibana</a>
+- <a href="https://github.com/justintmoore/exploring-azure">Exploring Azure</a>
+
+<!--
+- <a href="https://github.com/justintmoore/30-day-mydfir-challenge">Exploring Azure</a>
+-->
 
 ## Books
 This is The Way The World Ends By. Nicole Perlroth
