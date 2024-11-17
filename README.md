@@ -10,8 +10,7 @@
 😎 I'm a Navy Vet, Non-Traditional Student, and life-long learner with a PASSION for Cybersecurity!  
 
 ## Objective  
-My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
-I’m driven by a relentless curiosity to learn, expand my knowledge, and apply it in the fast-paced world of cybersecurity.
+In midst of a career change. This journey has resulted in a passion for information technology, and an obession for cybersecurity. I’m driven by a relentless curiosity to learn, expand my knowledge, and apply it in the fast-paced world of IT/ Cybersecurity.
 
 ## Certifications
 [![GIAC GFACT Badge](https://img.shields.io/badge/-GIAC%20GFACT-6A0DAD?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/3f382cb7-95f0-47b6-ad18-03dfe5d877eb/public_url) 
