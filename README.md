@@ -19,7 +19,11 @@ In midst of a career change. This journey has resulted in a passion for informat
 [![CompTIA Network+ Badge](https://img.shields.io/badge/-Network%2B%20(est.%20Dec%202024)-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)]()  
 
 ## 💻 IT Projects 💻
-- <a href="https://github.com/justintmoore/exploring-azure">Exploring Azure</a>
+- <a href="https://github.com/justintmoore/exploring-azure">Exploring Azure</a>  
+- <a href="https://github.com/justintmoore/osTicket">osTicket</a>
+- <a href="https://github.com/justintmoore/active-directiory-onpremise">Active Directory Implementation</a>  
+
+
 
 ## ⚔️ Cybersecurity Projects 🛡️
 - <a href="https://github.com/justintmoore/elk-stack-setup/tree/main">Elasticsearch Logstash Kibana</a>  
