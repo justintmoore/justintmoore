@@ -18,11 +18,10 @@ In midst of a career change. This journey has resulted in a passion for informat
 [![GIAC GSEC Badge](https://img.shields.io/badge/-GIAC%20GSEC%20(est.%20Jan%202025)-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)]()   
 [![CompTIA Network+ Badge](https://img.shields.io/badge/-Network%2B%20(est.%20Dec%202024)-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)]()  
 
-## IT Projects
-- <a href="https://github.com/justintmoore/elk-stack-setup/tree/main">Elasticsearch Logstash Kibana</a>
+## 💻 IT Projects 💻
 - <a href="https://github.com/justintmoore/exploring-azure">Exploring Azure</a>
 
-## Cybersecurity Projects  
+## ⚔️ Cybersecurity Projects 🛡️
 - <a href="https://github.com/justintmoore/elk-stack-setup/tree/main">Elasticsearch Logstash Kibana</a>  
 
 <!--
