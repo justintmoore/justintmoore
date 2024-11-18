@@ -8,7 +8,7 @@
 ## Objective  
 Embarking on a career change has ignited a passion for information technology and fueled an obsession with cybersecurity. Guided by insatiable curiosity, I'm on a mission to learn, grow, and thrive in the dynamic world of IT and cybersecurity, where challenges fuel innovation and every day brings a new opportunity to level up.
 
-## Certifications
+## 📜Certifications📜
 [![GIAC GFACT Badge](https://img.shields.io/badge/-GIAC%20GFACT-6A0DAD?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/3f382cb7-95f0-47b6-ad18-03dfe5d877eb/public_url) 
 [![GIAC GISF Badge](https://img.shields.io/badge/-GIAC%20GISF-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/814a9b4e-829f-4fc8-96f6-2067c0918a25/public_url) 
 [![GIAC GSEC Badge](https://img.shields.io/badge/-GIAC%20GSEC%20(est.%20Jan%202025)-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)]()   
