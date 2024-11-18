@@ -29,7 +29,7 @@ Embarking on a career change has ignited a passion for information technology an
   - [GP Management and Inspecting Event Viewer Logs]( https://github.com/justintmoore/active-directiory-onpremise)
 
 
-## ⚔️ Cybersecurity Projects 🛡️
+## ⚔️🛡️ Cybersecurity Projects 
 - <b>Elastic Search Logstash Kibana</b>  
   - [ELK Stack]( https://github.com/justintmoore/elk-stack-setup/tree/main)
 
