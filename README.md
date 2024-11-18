@@ -23,9 +23,9 @@ In midst of a career change. This journey has resulted in a passion for informat
   - <a href="https://github.com/justintmoore/exploring-azure">Exploring Azure</a>
     
 - osTicket (Help Desk Ticketing System)<br>
-    - <a href="https://github.com/justintmoore/osTicket">osTicket: Prerequisites and Installation</a>  
-    - <a href="https://github.com/justintmoore/osTicket">Post-Installation Configuration</a>  
-    - <a href="https://github.com/justintmoore/osTicket">Ticket Lifecycle Examples</a>
+    - <a href="https://github.com/justintmoore/osTicket-prerequisites-and-installation/tree/main">osTicket: Prerequisites and Installation</a>  
+    - <a href="https://github.com/justintmoore/osTicket-post-installation-config/blob/main/README.md">Post-Installation Configuration</a>  
+    - <a href="https://github.com/justintmoore/osTicket-ticketing-lifecycle/blob/main/README.md">Ticketing Lifecycle Examples</a>
       
 - Active Directory  
     - <a href="https://github.com/justintmoore/active-directiory-onpremise">Configuring On-premises AD within Azure VMs</a>  
