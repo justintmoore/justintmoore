@@ -15,8 +15,7 @@ Embarking on a career change has ignited a passion for information technology an
 [![CompTIA Network+ Badge](https://img.shields.io/badge/-Network%2B%20(est.%20Dec%202024)-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white)]()
 
 
-<h2>💻 IT Projects 💻</h2>
-
+## 💻 IT Projects 💻
 - <b>Exploring Azure</b>
   - [Exploring Azure Part 1-3]( https://github.com/justintmoore/exploring-azure-pt1)
 
@@ -30,14 +29,12 @@ Embarking on a career change has ignited a passion for information technology an
   - [GP Management and Inspecting Event Viewer Logs]( https://github.com/justintmoore/active-directiory-onpremise)
 
 
-<h2>⚔️ Cybersecurity Projects 🛡️</h2>  
-
+## ⚔️ Cybersecurity Projects 🛡️
 - <b>Elastic Search Logstash Kibana</b>  
   - [ELK Stack]( https://github.com/justintmoore/elk-stack-setup/tree/main)
 
 
-<h2>Books</h2>
-
+## Books
 - <b>This Is How They Tell Me The World Ends By. Nicole Perlroth</b>
 
 
