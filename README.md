@@ -24,7 +24,7 @@ Embarking on a career change has ignited a passion for information technology an
   - [osTicket: Post-Installation Configurations]( https://github.com/justintmoore/osTicket-post-installation-config/blob/main/README.md)
 
 - <b>Active Directory</b>
-  - [Configuring On-premises AD within Azure]( https://github.com/justintmoore/active-directiory-onpremise)
+  - [Configuring On-premises AD within Azure]( https://github.com/justintmoore/active-directory-onpremise)
   - [GP Management and User Management]( https://github.com/justintmoore/active-directory-group-policy)
 
 
