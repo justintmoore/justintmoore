@@ -25,7 +25,7 @@ Embarking on a career change has ignited a passion for information technology an
 
 - <b>Active Directory</b>
   - [Configuring On-premises AD within Azure VMs]( https://github.com/justintmoore/active-directiory-onpremise)
-  - [GP Management and Inspecting Event Viewer Logs]( https://github.com/justintmoore/active-directiory-onpremise)
+  - [GP Management and Inspecting Event Viewer Logs]( https://github.com/justintmoore/active-directory-group-policy)
 
 
 ## ⚔️🛡️ Cybersecurity Projects 
