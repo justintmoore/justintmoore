@@ -25,6 +25,7 @@ Embarking on a career change has ignited a passion for information technology an
 
 - <b>Active Directory</b>
   - [Configuring On-premises AD within Azure]( https://github.com/justintmoore/active-directory-onpremise)
+  - [Deploying Active Directory]( https://github.com/justintmoore/deploying-active-directory)
   - [GP Management and User Management]( https://github.com/justintmoore/active-directory-group-policy)
 
 
