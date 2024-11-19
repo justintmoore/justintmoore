@@ -22,7 +22,6 @@ Embarking on a career change has ignited a passion for information technology an
 - <b>osTicket (Help Desk Ticketing System) </b>
   - [osTicket: Prerequisites and Installation]( https://github.com/justintmoore/osTicket-prerequisites-and-installation/tree/main)
   - [osTicket:Post Installation Config]( https://github.com/justintmoore/osTicket-post-installation-config/blob/main/README.md)
-  - [osTicket: osTicketing Lifecycle]( https://github.com/justintmoore/osTicket-ticketing-lifecycle/blob/main/README.md)
 
 - <b>Active Directory</b>
   - [Configuring On-premises AD within Azure VMs]( https://github.com/justintmoore/active-directiory-onpremise)
