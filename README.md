@@ -17,7 +17,7 @@ Embarking on a career change has ignited a passion for information technology an
 
 ## 💻 IT Projects 
 - <b>Exploring Azure</b>
-  - [Exploring Azure Part 1-3]( https://github.com/justintmoore/exploring-azure-pt1)
+  - [Exploring Azure]( https://github.com/justintmoore/exploring-azure-pt1)
 
 - <b>Implementing osTicket (Help Desk Ticketing System) </b>
   - [osTicket: Installation]( https://github.com/justintmoore/osTicket-prerequisites-and-installation/tree/main)
