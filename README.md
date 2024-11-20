@@ -19,7 +19,7 @@ Embarking on a career change has ignited a passion for information technology an
 - <b>Exploring Azure</b>
   - [Exploring Azure Part 1-3]( https://github.com/justintmoore/exploring-azure-pt1)
 
-- <b>osTicket (Help Desk Ticketing System) </b>
+- <b>Implementing osTicket (Help Desk Ticketing System) </b>
   - [osTicket: Installation]( https://github.com/justintmoore/osTicket-prerequisites-and-installation/tree/main)
   - [osTicket: Post-Installation Configurations]( https://github.com/justintmoore/osTicket-post-installation-config/blob/main/README.md)
 
