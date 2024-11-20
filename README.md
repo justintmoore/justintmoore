@@ -30,7 +30,7 @@ Embarking on a career change has ignited a passion for information technology an
 
 
 ## ⚔️🛡️ Cybersecurity Projects 
-- <b>Configuring Centralized Log Management System via ELK Stack</b>  
+- <b>Configuring Centralized Log Management via ELK Stack</b>  
   - [Elastic Search Logstash Kibana]( https://github.com/justintmoore/elk-stack-setup/tree/main)
 
 
