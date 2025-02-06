@@ -2,7 +2,6 @@
 
 ## About Me  
 🎓 Pursuing a Bachelor's in Cybersecurity at SANS Technology Institute, combining academic rigor with hands-on expertise.  
-🐏 Wearing multiple hats as an IT Technician, Cybersecurity Intern, and Python TA—proof that multitasking is my superpower.  
 ⚓ Navy veteran, non-traditional student, and lifelong learner, driven by a passion for cybersecurity and a knack for solving tough problems.  
 
 ## Objective  
