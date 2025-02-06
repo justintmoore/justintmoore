@@ -11,9 +11,8 @@ Embarking on a career change has ignited a passion for information technology an
 ## 📜Certifications
 [![GIAC GFACT Badge](https://img.shields.io/badge/-GIAC%20GFACT-6A0DAD?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/3f382cb7-95f0-47b6-ad18-03dfe5d877eb/public_url) 
 [![GIAC GISF Badge](https://img.shields.io/badge/-GIAC%20GISF-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/814a9b4e-829f-4fc8-96f6-2067c0918a25/public_url) 
-[![GIAC GSEC Badge](https://img.shields.io/badge/-GIAC%20GSEC%20(est.%20Jan%202025)-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)]()   
-
-
+[![GIAC GSEC Badge](https://img.shields.io/badge/-GIAC%20GSEC%20-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/d40b5b67-b09b-47c3-bff5-839eeae907ce/public_url)   
+[![GIAC GCIH Badge](https://img.shields.io/badge/-GIAC%20GCIH%20(est.%20April%208%202025)-FF0000?style=for-the-badge&logo==GIAC&logoColor=white)]()  
 
 ## 💻 IT Projects 
 - <b>Exploring Azure</b>
