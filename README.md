@@ -35,8 +35,8 @@ Embarking on a career change has ignited a passion for information technology an
 
 
 ## 📚Practical Books
-- <b>This Is How They Tell Me The World Ends By. Nicole Perlroth</b>
-- <b>Automate the Boring Stuff with Python Programming</b>
+- <b>This Is How They Tell Me The World Ends / Nicole Perlroth</b>
+- <b>Automate the Boring Stuff with Python Programming / Al Sweigart</b>
 
 
 
