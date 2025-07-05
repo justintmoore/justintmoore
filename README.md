@@ -15,6 +15,13 @@ Embarking on a career change has ignited a passion for information technology an
 [![GIAC GCIH Badge](https://img.shields.io/badge/-GIAC%20GCIH%20-FF0000?style=for-the-badge&logo==GIAC&logoColor=white)](https://www.credly.com/badges/24000090-4d42-4468-b935-7b43e7f5b87e/public_url)  
 [![GIAC GPYC Badge](https://img.shields.io/badge/-GIAC%20GPYC%20(est.%20September%20%202025)-008000?style=for-the-badge&logo==GIAC&logoColor=green)]()
 
+## 📚 Books
+- <b>This Is How They Tell Me The World Ends / Nicole Perlroth</b>
+- <b>Automate the Boring Stuff with Python Programming / Al Sweigart</b>
+
+
+
+<!--
 ## 💻 IT Projects 
 - <b>Exploring Azure</b>
   - [Exploring Azure]( https://github.com/justintmoore/exploring-azure-pt1)
@@ -41,7 +48,7 @@ Embarking on a career change has ignited a passion for information technology an
 
 
 
-<!--
+
 # Hello, I'm Justin (This Github is under contruction)  
 <a href="https://www.linkedin.com/in/justintimothymoore/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCUYt7w8-Fshuso7JG2ghp3A"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
