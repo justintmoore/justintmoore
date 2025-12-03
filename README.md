@@ -13,7 +13,7 @@ Embarking on a career change has ignited a passion for information technology an
 [![GIAC GISF Badge](https://img.shields.io/badge/-GIAC%20GISF-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/814a9b4e-829f-4fc8-96f6-2067c0918a25/public_url) 
 [![GIAC GSEC Badge](https://img.shields.io/badge/-GIAC%20GSEC%20-0000FF?style=for-the-badge&logo=GIAC&logoColor=white)](https://www.credly.com/badges/d40b5b67-b09b-47c3-bff5-839eeae907ce/public_url)   
 [![GIAC GCIH Badge](https://img.shields.io/badge/-GIAC%20GCIH%20-FF0000?style=for-the-badge&logo==GIAC&logoColor=white)](https://www.credly.com/badges/24000090-4d42-4468-b935-7b43e7f5b87e/public_url)  
-[![GIAC GPYC Badge](https://img.shields.io/badge/-GIAC%20GPYC%20(est.%February%20%202026)-008000?style=for-the-badge&logo==GIAC&logoColor=green)]()
+[![GIAC GPYC Badge](https://img.shields.io/badge/-GIAC%20GPYC%20(est.%20February%20%202026)-008000?style=for-the-badge&logo==GIAC&logoColor=green)]()
 
 ## 📚 Books
 - <b>This Is How They Tell Me The World Ends / Nicole Perlroth</b>
