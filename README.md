@@ -9,12 +9,9 @@
 Embarking on a career change has ignited a passion for information technology and fueled an obsession with cybersecurity. Guided by insatiable curiosity, I'm on a mission to learn, grow, and thrive in the dynamic world of IT and cybersecurity, where challenges fuel innovation and every day brings a new opportunity to level up.
 
 ## 📜Certifications 
-[![GIAC GSEC Badge](badges/giac-security-essentials-certification-gsec.png)](https://www.credly.com/badges/d40b5b67-b09b-47c3-bff5-839eeae907ce/public_url)
-
-[![GIAC GCIH Badge](badges/giac-certified-incident-handler-gcih.png)](https://www.credly.com/badges/24000090-4d42-4468-b935-7b43e7f5b87e/public_url)
-
-[![GIAC GPYC Badge](badges/giac-python-coder-gpyc.png)](https://www.credly.com/badges/83536efd-4f8f-466c-b111-0723492746ca/public_url)
-
+<a href="https://www.credly.com/badges/d40b5b67-b09b-47c3-bff5-839eeae907ce/public_url"><img src="https://raw.githubusercontent.com/justintmoore/soc-analyst-journey/main/badges/giac-security-essentials-certification-gsec.png" width="100" alt="GIAC GSEC Badge"></a>&nbsp;
+<a href="https://www.credly.com/badges/24000090-4d42-4468-b935-7b43e7f5b87e/public_url"><img src="https://raw.githubusercontent.com/justintmoore/soc-analyst-journey/main/badges/giac-certified-incident-handler-gcih.png" width="100" alt="GIAC GCIH Badge"></a>&nbsp;
+<a href="https://www.credly.com/badges/83536efd-4f8f-466c-b111-0723492746ca/public_url"><img src="https://raw.githubusercontent.com/justintmoore/soc-analyst-journey/main/badges/giac-python-coder-gpyc.png" width="100" alt="GIAC GPYC Badge"></a>
 
 ## 📚 Books
 - <b>This Is How They Tell Me The World Ends / Nicole Perlroth</b>
