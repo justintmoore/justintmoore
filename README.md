@@ -1,9 +1,9 @@
 <h1>Hi, I'm Justin! <br/> <a href="https://www.linkedin.com/in/justintimothymoore/">IT Systems Technician</a>, <a href="https://github.com/justintmoore ">Cybersecurity Student</a>, <a href="https://www.youtube.com/@AnbuSecOps">Aspiring Blue Teamer</a></h1>
 
 ## About Me  
-💼 IT Systems Technician at a security-focused MSP
+💼 IT Systems Technician at a security-focused MSP  
 🎓 SANS Technology Institute - B.S. Cybersecurity (expected May, 2027).  
-⚓ Navy veteran, and non-traditional student
+⚓ Navy veteran, and non-traditional student  
 ## Objective  
 Targeting Enterprise Identity and Access Management roles with focus on Microsoft Entra ID, identity lifecycle, and IAM Governance. 
 
