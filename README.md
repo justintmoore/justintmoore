@@ -2,8 +2,9 @@
 
 ## About Me  
 💼 IT Systems Technician at a security-focused MSP  
-🎓 SANS Technology Institute - B.S. Cybersecurity (expected May, 2027).  
+🎓 SANS Technology Institute - B.S. Cybersecurity (expected May 2027).  
 ⚓ Navy veteran, and non-traditional student  
+
 ## Objective  
 Targeting Enterprise Identity and Access Management roles with focus on Microsoft Entra ID, identity lifecycle, and IAM Governance. 
 
