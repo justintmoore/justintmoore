@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin! <br/> <a href="https://www.linkedin.com/in/justintimothymoore/">IT Systems Technician</a>, <a href="https://github.com/justintmoore ">Cybersecurity Student</a>, <a href="https://www.youtube.com/@AnbuSecOps">Aspiring Blue Teamer</a></h1>
+<h1>Hi, I'm Justin! <br/> <a href="https://www.linkedin.com/in/justintimothymoore/">IT Systems Technician</a>, <a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/">Cybersecurity Student</a>, <a href="https://www.youtube.com/@AnbuSecOps">Aspiring Blue Teamer</a></h1>
 
 ## About Me  
 💼 IT Systems Technician at a security-focused MSP  
